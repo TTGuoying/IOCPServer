@@ -2,6 +2,8 @@
 A IOCP Server Class on Windows!
  
 本类配套文章：http://www.cnblogs.com/tanguoying/p/8439701.html
+
+
 一个基于完成端口网络服务类，自带缓存池和心跳包监测！
 
 * 这个类IOCP是本代码的核心类，用于说明WinSock服务器端编程模型中的完成端口(IOCP)的使用方法
